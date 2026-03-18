@@ -1,0 +1,5 @@
+{
+  "name": "Responsive Image Gallery",
+  "description": "A responsive image gallery with category filters, hover effects, and a lightbox view with navigation.",
+  "requestFramePermissions": []
+}
